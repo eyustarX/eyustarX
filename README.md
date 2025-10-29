@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-### 🧑‍💻 **About Me**<br><br>Aspiring Software Engineer passionate about building web projects and solving problems with code. I’m currently learning algorithms and web development using Python, HTML, CSS, and JavaScript. I love creating simple, interactive apps that make learning fun and useful.<br><br>---<br><br>### 🛠️ **Skills**<br><br>* **Languages:** Python, JavaScript, HTML, CSS<br>* **Tools:** Git, GitHub, VS Code<br><br>---<br><br>### 🌱 **Currently Learning**<br><br>* React for front-end development<br>* Advanced problem-solving using Python<br><br>---<br>
+<br><br>Aspiring Software Engineer passionate about building web projects and solving problems with code. I’m currently learning algorithms and web development using Python, HTML, CSS, and JavaScript. I love creating simple, interactive apps that make learning fun and useful.<br><br><br><br>### 🛠️ Skills<br><br>Languages:Python, JavaScript, HTML, CSS<br>Tools: Git, GitHub, VS Code<br><br><br><br>### 🌱 Currently Learning<br><br>* React for front-end development<br>* Advanced problem-solving using Python<br><br><br>
 
 
 # 💻 Tech Stack:
