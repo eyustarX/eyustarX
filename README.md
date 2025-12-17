@@ -14,7 +14,7 @@ I love creating simple, interactive apps that make learning fun and useful.
 ---
 
 ### 🌱 Currently Learning
-- React for front-end development  
+- front-end development  
 - Advanced problem-solving using Python  
 
 ---
