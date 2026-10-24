@@ -1,73 +1,74 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050914,60:0b1730,100:030712&height=220&section=header&text=Eyob%20Tamiru&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineering%20Student%20|%20Backend%20%26%20Full-Stack%20Developer%20|%20AI/ML%20Enthusiast&descSize=15&descAlignY=60&descColor=94a3b8" width="100%" alt="Eyob Tamiru Banner" />
+  <h1>
+    Hey there, I'm Eyob Tamiru
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Wave" />
+  </h1>
 
-<p align="center">
-  <i>✨ "Better Code, Bigger Dreams" ✨</i>
-</p>
-
-<p align="center">
-  📍 <b>Addis Ababa, Ethiopia</b> &nbsp;•&nbsp; 
-  🎓 <b>AASTU (3rd Year)</b> &nbsp;•&nbsp; 
-  📅 <b>Graduating 2029</b>
-</p>
-
-<!-- SOCIAL PILLS -->
-<p align="center">
-  <a href="https://linkedin.com/in/eyob-tamiru" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/eyustarX" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:eyobtamiru111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <!-- DYNAMIC TYPING SVG HEADER -->
+  <a href="https://github.com/eyustarX">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=620&lines=Software+Engineering+Student;Backend+%26+Full-Stack+Developer;Applied+AI+%26+RAG+Systems+Builder;Turning+Ideas+into+Reliable+Software" alt="Typing SVG" />
   </a>
-</p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/AASTU-3rd_Year_Software_Engineering-0A66C2?style=flat-square&logo=academia&logoColor=white" alt="School" />
+    <img src="https://img.shields.io/badge/Location-Addis_Ababa%2C_Ethiopia-10B981?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Graduation-Class_of_2029-8B5CF6?style=flat-square&logo=target&logoColor=white" alt="Graduation" />
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/eyob-tamiru" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/eyustarX" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:eyobtamiru111@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 👤 About Me & 🛠️ Technologies & Tools
+### 👨‍💻 About Me
+
+Hey! I'm **Eyob**, a Software Engineering student at **Addis Ababa Science and Technology University (AASTU)** in Ethiopia.
+
+I am driven by how robust, scalable software systems operate behind the scenes. My core focus is on **backend development, data processing, and applied AI/ML**—taking complex, real-world problems and turning them into clean, reliable, and functional applications.
+
+Whether it is modeling domain logic for emergency medical systems, structuring modular RESTful APIs, or engineering semantic retrieval pipelines with RAG, I prioritize **code clarity, architectural structure, and practical impact**.
+
+**What I spend my time on:**
+- ⚙️ **Backend Architectures:** Building scalable REST APIs using **FastAPI** and **Node.js / Express**, backed by **PostgreSQL** and **MongoDB**.
+- 🧠 **Applied AI & RAG:** Designing semantic search, vector embeddings, and LLM-powered context retrieval pipelines.
+- 📊 **Data Engineering:** Vectorized calculations and multi-stage sanitization pipelines in Python using **NumPy**.
+- 🐳 **Modern Tooling:** Utilizing **Docker** containerization and automated **GitHub Actions** CI/CD for consistent codebases.
+- 💡 **Engineering Philosophy:** Clean domain modeling, high reliability, and bridging academic theory with practical production code.
+
+---
+
+### 🛠️ Technologies & Tools
 
 <table width="100%">
   <tr>
-    <!-- LEFT: ABOUT ME -->
-    <td width="50%" valign="top">
-      <h3>👤 About Me</h3>
-      <p>
-        Hey! I'm <b>Eyob</b>, a Software Engineering student at <b>Addis Ababa Science and Technology University</b>, Ethiopia. I'm passionate about building useful software, developing backend systems, and exploring how AI can solve real-world problems.
-      </p>
-      <br/>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>💻 <b>Building</b> web applications and backend services.</li><br/>
-        <li>🧠 <b>Exploring</b> AI/ML, LLMs, and AI-powered applications.</li><br/>
-        <li>🌱 <b>Continuously learning</b> new technologies and improving my development skills.</li><br/>
-        <li>🚀 <b>Turning ideas</b> into practical, working software.</li>
-      </ul>
-    </td>
-
-    <!-- RIGHT: TECH STACK (ZERO AWS) -->
-    <td width="50%" valign="top">
-      <h3>🛠️ Technologies &amp; Tools</h3>
-      
-      <b>Languages</b><br/>
+    <td width="33%" valign="top">
+      <h4>💻 Languages</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&theme=dark" alt="Languages" />
       </a>
-      <br/><br/>
-
-      <b>Frameworks &amp; Libraries</b><br/>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ Frameworks &amp; Libraries</h4>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,fastapi&theme=dark" alt="Frameworks" />
       </a>
-      <br/><br/>
-
-      <b>Tools &amp; Databases (AWS Removed)</b><br/>
+    </td>
+    <td width="34%" valign="top">
+      <h4>🗄️ Databases &amp; Tools</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postgres,mongodb&theme=dark" alt="Tools & DBs" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,vscode&theme=dark" alt="Tools & DBs" />
       </a>
     </td>
   </tr>
@@ -78,67 +79,53 @@
 ### 🎯 What I'm Focused On
 
 <table width="100%">
-  <tr>
-    <!-- CARD 1 -->
-    <td width="25%" valign="top">
-      <h4>🗄️ Backend Development</h4>
-      <p>
-        Building APIs, working with databases, and learning how to design reliable backend systems.
-      </p>
-    </td>
-    <!-- CARD 2 -->
-    <td width="25%" valign="top">
-      <h4>🌐 Full-Stack Development</h4>
-      <p>
-        Creating modern web applications with responsive interfaces and functional backends.
-      </p>
-    </td>
-    <!-- CARD 3 -->
-    <td width="25%" valign="top">
-      <h4>🧠 AI &amp; Machine Learning</h4>
-      <p>
-        Exploring LLMs, RAG, AI agents, and intelligent applications.
-      </p>
-    </td>
-    <!-- CARD 4 -->
-    <td width="25%" valign="top">
-      <h4>🐳 DevOps &amp; Deployment</h4>
-      <p>
-        Working with Docker, containerization, automated CI/CD pipelines, and application deployment.
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="25%" valign="top">
+
+#### 🗄️ Backend Systems
+Building robust RESTful APIs, structuring relational & document databases, and writing maintainable server-side logic.
+
+</td>
+<td width="25%" valign="top">
+
+#### 🌐 Full-Stack Apps
+Creating responsive web apps with modern frontend components connected to well-documented backend services.
+
+</td>
+<td width="25%" valign="top">
+
+#### 🤖 Applied AI & RAG
+Experimenting with LLMs, prompt engineering, RAG pipelines, and vector databases for contextual question answering.
+
+</td>
+<td width="25%" valign="top">
+
+#### 🐳 DevOps & Tooling
+Containerizing applications with Docker, configuring automated CI workflows, and managing reliable deployments.
+
+</td>
+</tr>
 </table>
 
 ---
 
 ### 📬 Connect With Me
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="middle">
-      <a href="https://linkedin.com/in/eyob-tamiru" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-/eyob--tamiru-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/eyustarX" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-/eyustarX-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <br/><br/>
-      <a href="mailto:eyobtamiru111@gmail.com">
-        <img src="https://img.shields.io/badge/Email-eyobtamiru111%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <blockquote style="margin: 0;">
-        <i>"The best way to predict the future is to build it."</i><br/>
-        <small>— Abraham Lincoln</small>
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <br/>
-  <sub>🏔️ Thanks for visiting my profile! 🏔️</sub>
+
+  <p>Feel free to reach out for collaborations, discussions on software architecture, or just to say hi!</p>
+
+  <a href="https://www.linkedin.com/in/eyob-tamiru" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-eyob--tamiru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/eyustarX" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-eyustarX-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:eyobtamiru111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eyobtamiru111%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/><br/>
+  <sub>🏔️ Thanks for stopping by my profile! 🏔️</sub>
+
 </div>
